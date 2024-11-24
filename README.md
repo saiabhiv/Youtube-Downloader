@@ -1,7 +1,5 @@
 # Youtube-Downloader
 
-# YouTube Downloader
-
 This is a simple YouTube downloader application built using Python, Tkinter, and PyInstaller. It allows users to download videos and audio from YouTube with customizable options.
 
 ## Features:
