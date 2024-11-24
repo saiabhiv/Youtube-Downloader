@@ -1,0 +1,34 @@
+# Python Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment folder (if any)
+.venv/
+
+# Build files
+build/
+dist/
+*.spec
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Mac specific
+.DS_Store
+
+# PyInstaller Executable
+*.exe
+
+# Logs, backups, temporary files
+*.log
+*.bak
+*.swp
+
+# IDE or Editor folders (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Miscellaneous
+*.db
