@@ -15,3 +15,5 @@ This is a simple YouTube downloader application built using Python, Tkinter, and
    git clone https://github.com/your_username/your_repository_name.git
 
 2. pip install -r requirements.txt
+3. python youtube_downloader.py
+
